@@ -45,7 +45,6 @@ class PlanTile extends StatelessWidget {
                     dueDate,
                     style: TextStyle(
                       fontSize: 12,
-                      fontWeight: FontWeight.w100,
                       color: Colors.grey[600],
                     ),
                   ),
